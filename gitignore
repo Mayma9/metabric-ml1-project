@@ -1,0 +1,19 @@
+# Virtual environment
+ml_project_env/
+venv/
+.venv/
+
+# Python
+__pycache__/
+*.pyc
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Editor / OS
+.vscode/
+.DS_Store
+Thumbs.db
+
+# Secrets (Kaggle API token)
+kaggle.json
