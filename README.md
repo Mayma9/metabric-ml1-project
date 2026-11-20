@@ -3,7 +3,7 @@
 Machine Learning 1 capstone project — Tek-Up, ING-4 SDIA, Semester 7, 2026–2027
 Instructor: Dr. Haythem Ghazouani
 
-## Team
+## Team: PrognoGen
 
 - Oumaima Hafiane
 - Imen Hichri
